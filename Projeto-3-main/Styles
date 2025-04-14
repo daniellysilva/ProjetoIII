@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+
+input {
+    width: 150px;   /* diminui a largura */
+    height: 30px;   /* diminui a altura */
+    padding: 5px;   /* opcional: controla o espaço interno */
+    font-size: 14px; /* opcional: ajusta o tamanho da fonte */
+  }
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
